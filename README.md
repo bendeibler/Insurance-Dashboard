@@ -42,7 +42,7 @@ Source: [CAS Loss Reserving Data Pulled from NAIC Schedule P](https://www.casact
 ## How to View
 
 1. Open `Insurance_dashboard.twb` in [Tableau Desktop](https://www.tableau.com/products/desktop) or Tableau Reader (free), or
-2. View it live on [Tableau Public](#) *(add your published link here once you publish it)*
+2. View it live on (https://public.tableau.com/views/Insurance_dashboard_17907932345430/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Repo Contents
 
