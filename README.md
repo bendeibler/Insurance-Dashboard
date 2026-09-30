@@ -12,10 +12,16 @@ This workbook models the core actuarial reserving workflow: tracking how claims 
 - Dynamic insight text summarizing the selected company's premium and loss ratio
 - Filterable by insurer (`GRNAME`)
 
+<img width="1640" height="787" alt="image" src="https://github.com/user-attachments/assets/e5b20295-071c-4936-9038-470f06164e73" />
+
+
 **Dashboard 2 — Development Factors & Reserve Comparison**
 - Age-to-age development factor trend by development lag — shows how quickly (or slowly) claims mature
 - Latest cumulative paid loss vs. latest posted reserves by accident year, to assess reserve adequacy
 - Company filter carried across both dashboards for consistent comparison
+
+<img width="1630" height="782" alt="image" src="https://github.com/user-attachments/assets/985042a3-6eb2-423c-ac5c-f451fa88c19a" />
+
 
 ## Methodology
 
